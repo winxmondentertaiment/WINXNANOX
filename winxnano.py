@@ -100,7 +100,7 @@ elif __main__ == "4":
  print(Style.RESET_ALL)
  time.sleep(1)
  print(me + "[!] peringatan")
- print(Style.RESRT_ALL)
+ print(Style.RESET_ALL)
  print("Versi saat ini : 1.0")
  print("anda perlu update untuk menggunakan fitur terbaru")
  print("")
