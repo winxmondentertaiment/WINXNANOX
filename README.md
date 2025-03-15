@@ -8,7 +8,7 @@ the official winxmond tools and random functional tools!!
 
 ## TUTORIAL
 ```
-$ git clone ( this script links )
+$ git clone ( this script links ) #
 ```
 ```
 $ cd WINXNANOX
