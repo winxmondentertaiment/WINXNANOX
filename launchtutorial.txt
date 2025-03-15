@@ -1,0 +1,9 @@
+SCRIPT LAUNCH TUTORIAL
+===========================
+PLEASE USING TERMUX OR 
+TERMIMAL LINUX
+
+$ pkg update && pkg upgrade
+$ pip install -r install.txt
+$ python winxnano.py
+==========================
