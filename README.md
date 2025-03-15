@@ -7,15 +7,20 @@ the official winxmond tools and random functional tools!!
 © WinxScript
 
 ## TUTORIAL
+#
+### git clone
 ```
-$ git clone ( this script links ) #
+$ git clone ( this script links )
 ```
+### open directory
 ```
 $ cd WINXNANOX
 ```
+### see directory
 ```
 $ ls
 ```
+### display tutorial text
 ```
 $ cat launchtutorial.txt
 ```
